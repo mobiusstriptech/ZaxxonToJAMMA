@@ -1,4 +1,15 @@
 # ZaxxonToJAMMA
+
+## Parts Required
+44 position 3.96mm pitch Edge Connector
+EDAC Part #305-044-500-202
+
+## Manufacturing Recommendations
+1.6mm board thickness
+ENIG or preferably Hard Gold plating
+45 degree beveled "Gold Finger" edge on 56pin JAMMA side
+2 ounces of copper is recommended but not required
+
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
